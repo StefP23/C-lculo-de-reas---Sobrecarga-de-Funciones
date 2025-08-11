@@ -9,6 +9,23 @@ Se llama a la función area correspondiente, que está sobrecargada para cada ca
 Se muestra el resultado del área calculada.
 El menú se repite hasta que el usuario elige salir.
 
+## Cálculo de áreas
+Triángulo:
+Usa la fórmula:
+área = (base * altura) / 2
+
+Cuadrado:
+Usa la fórmula:
+área = lado * lado
+
+Rectángulo:
+Usa la fórmula:
+área = largo * ancho
+Se llama a la función: int area(int largo, int ancho)
+
+Círculo:
+Usa la fórmula:
+área = π * radio^2
 
 # Vista en Consola
 <img width="442" height="192" alt="image" src="https://github.com/user-attachments/assets/7285ea28-efc2-460b-bfc3-f82251bd98ac" />
