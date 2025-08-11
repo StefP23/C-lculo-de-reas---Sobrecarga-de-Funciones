@@ -8,3 +8,7 @@ Según la opción, el programa solicita los datos necesarios (base y altura, lad
 Se llama a la función area correspondiente, que está sobrecargada para cada caso.
 Se muestra el resultado del área calculada.
 El menú se repite hasta que el usuario elige salir.
+
+
+# Vista en Consola
+<img width="442" height="192" alt="image" src="https://github.com/user-attachments/assets/7285ea28-efc2-460b-bfc3-f82251bd98ac" />
